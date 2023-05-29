@@ -1,0 +1,76 @@
+baseurl = "http://www.rp-pharma.fr"
+title = "Romain POULIN"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+disqusShortname = ""
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Romain POULIN"
+  info = "Pharmacien"
+  description = "Romain POULIN"
+  keywords = "blog,developer,personal"
+  avatarurl = "images/avatar.jpg"
+  #gravatar = "john.doe@example.com"
+
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2023
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "linkedin"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 3
+  url = "https://www.linkedin.com/in/romain-poulin-174832145/"
+  target = "_blank"
+[[params.social]]
+  name = "mail"
+  icon = "fa fa-envelope fa-2x"
+  weight = 1
+  url = "mailto:rp-pharma@pm.me"
+  target = "_blank"
+
+# Menu links
+[[menu.main]]
+  name = "Accueil"
+  weight = 1
+  url  = ""
+[[menu.main]]
+  name = "CV"
+  weight = 2
+  url  = "cv/"
+[[menu.main]]
+  name = "Conditions"
+  weight = 3
+  url  = "conditions/"
+[[menu.main]]
+  name = "Disponibilités"
+  weight = 4
+  url = "disponibilites/"
+  
+  # [[menu.main]] name = "Blog"
+  # weight = 5
+  # url = "/posts/"
