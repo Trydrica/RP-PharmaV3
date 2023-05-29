@@ -1,8 +1,8 @@
 baseurl = "http://www.rp-pharma.fr"
 title = "Romain POULIN"
 theme = "hugo-coder"
-languagecode = "en"
-defaultcontentlanguage = "en"
+languagecode = "fr"
+defaultcontentlanguage = "fr"
 
 paginate = 20
 
@@ -17,7 +17,6 @@ style = "github-dark"
   description = "Romain POULIN"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
-  #gravatar = "john.doe@example.com"
 
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
