@@ -17,12 +17,8 @@ style = "github-dark"
   description = "Romain POULIN"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
-
-  favicon_32 = "/img/favicon-32x32.png"
-  favicon_16 = "/img/favicon-16x16.png"
-
+  favicon = true
   since = 2023
-
   enableTwemoji = true
 
   colorScheme = "auto"
