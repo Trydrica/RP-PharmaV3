@@ -33,7 +33,7 @@ author = "Romain POULIN"
     - Pharmacie Ballereau, Marly-la-ville (2023)
     - Pharmacie Val du Châtel, Provins (2023)
 - **Enseignant Vacataire :**
-    - UFR Pharmacie (2016-2022)
+    - UFR Pharmacie (2016, toujours en activité)
     - IFSI Chaumont (2020-2022)
 - **Organisme de formation :**
     - CPTS et ESP, OrionSanté (2020)
@@ -49,12 +49,12 @@ author = "Romain POULIN"
     - Président et Fondateur (2019-2022)
 
 ## **Compétences** :
+- *Entretiens pharmaceutiques* ★★★★★ 
 - *Orthopédie* ★★★★★ 
 - *TROD Angine* ★★★★★ 
 - *Vaccination* ★★★★★ 
 - *Tests COVID* ★★★★★
-- *Entretiens pharmaceutiques* ★★★★★ 
-- *Informatique* ★★★★★ 
 - *Cosmétique* ★★ 
 - *Aromathérapie* ★★ 
 - *Phytothérapie* ★★★★ 
+- *Informatique* ★★★★★ 
