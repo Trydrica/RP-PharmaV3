@@ -20,6 +20,7 @@ author = "Romain POULIN"
     - *Reims*
 
 ## **Expériences Professionnelles :**
+
 - **Pharmacien Titulaire :**
     - Pharmacie POULIN (2014-2022), Doulaincourt (52)
 - **Pharmacien Adjoint :**
