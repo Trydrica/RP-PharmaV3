@@ -5,7 +5,6 @@ date = "01-01-2023"
 author = "Romain POULIN"
 +++
 ***
-
 ## **Formations :**
 - **DU e-PICIM (en cours 2022/23)**
     - (Pharmacovigilance, Intéractions, Contre-Indications Médicamenteuses)
