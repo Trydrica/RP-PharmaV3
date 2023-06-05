@@ -65,7 +65,4 @@ style = "github-dark"
   name = "Disponibilités"
   weight = 4
   url = "disponibilites/"
-  
-  # [[menu.main]] name = "Blog"
-  # weight = 5
-  # url = "/posts/"
+

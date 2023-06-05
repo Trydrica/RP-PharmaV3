@@ -1,8 +1,6 @@
 +++
 title = "Curriculum vitae :"
 description = "mon curriculum vitae"
-date = "01-01-2023"
-author = "Romain POULIN"
 +++
 ***
 ## **Formations :**

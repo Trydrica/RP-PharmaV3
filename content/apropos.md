@@ -1,9 +1,6 @@
 +++
 title = "À propos :"
 description = "Mes conditions"
-date = "01-05-2023"
-aliases = []
-author = "Romain POULIN"
 +++
 ***
 Après l'obtention de mon diplôme de pharmacien en 2012, puis ma thèse en 2013, j'ai acquis une officine en zone rurale en 2014.

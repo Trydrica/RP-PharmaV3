@@ -1,9 +1,6 @@
 +++
 title = "Mes conditions de remplacement :"
 description = "Mes conditions"
-date = "01-05-2023"
-aliases = []
-author = "Romain POULIN"
 +++
 ***
 - Coefficient : 700
