@@ -4,7 +4,7 @@ description = "mon curriculum vitae"
 +++
 ***
 ## **Formations :**
-- **DU e-PICIM (en cours 2022/23)**
+- **DU e-PICIM (2022/23)**
     - (Pharmacovigilance, Intéractions, Contre-Indications Médicamenteuses)
     - *UNILIM Limoges*
 - **Doctorat en Pharmacie (2005-2012)**
