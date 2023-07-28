@@ -56,7 +56,7 @@ style = "github-dark"
 [[menu.main]]
   name = "CV"
   weight = 2
-  url  = "cv/"
+  url  = "cv_fr/"
 [[menu.main]]
   name = "Conditions"
   weight = 3

@@ -1,12 +1,16 @@
 +++
 title = "Curriculum vitae :"
-description = "mon curriculum vitae"
+description = "mon curriculum vitae (FR)"
 +++
 ***
 ## **Formations :**
 - **DU e-PICIM (2022/23)**
     - (Pharmacovigilance, Intéractions, Contre-Indications Médicamenteuses)
     - *UNILIM Limoges*
+- **Agréments**
+    - Prélèvement TROD Angine
+    - Prélèvement Nasopharyngé (COVID)
+    - Vaccination
 - **Doctorat en Pharmacie (2005-2012)**
     - *UFR Pharmacie ReimsS*
 - **Master 1 Santé (2011)**
@@ -47,12 +51,8 @@ description = "mon curriculum vitae"
     - Président et Fondateur (2019-2022)
 
 ## **Compétences** :
-- *Entretiens pharmaceutiques* ★★★★★ 
-- *Orthopédie* ★★★★★ 
-- *TROD Angine* ★★★★★ 
-- *Vaccination* ★★★★★ 
-- *Tests COVID* ★★★★★
-- *Cosmétique* ★★ 
-- *Aromathérapie* ★★ 
-- *Phytothérapie* ★★★★ 
-- *Informatique* ★★★★★ 
+- ***Anglais : B2***
+- ***Informatique :***
+    - ***WEB : HTML5/CSS3***
+    - ***Bureautique : Pack Office*** 
+    - ***MOOC CNIL : RGPD***  
