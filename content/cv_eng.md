@@ -1,9 +1,9 @@
 +++
-title = "Curriculum vitae :"
-description = "mon curriculum vitae (FR)"
+title = "Resume :"
+description = "mon curriculum vitae (ENG)"
 +++
 ***
-### **Formations :**
+**Formations :**
 - **DU e-PICIM (2022/23)**
     - (Pharmacovigilance, Intéractions, Contre-Indications Médicamenteuses)
     - *UNILIM Limoges*
@@ -21,7 +21,7 @@ description = "mon curriculum vitae (FR)"
 -**Baccalauréat Scientifique (2005)**
     - *Reims*
 
-### **Expériences Professionnelles :**
+## **Expériences Professionnelles :**
 
 - **Pharmacien Titulaire :**
     - Pharmacie POULIN (2014-2022), Doulaincourt (52)
@@ -41,7 +41,7 @@ description = "mon curriculum vitae (FR)"
     - CPTS et ESP, OrionSanté (2020)
     - Défimédoc (2023, toujours en activité)
 
-### **Activité extra-professionelles :**
+## **Activité extra-professionelles :**
 - **Syndicat des Pharmaciens de la Haute-Marne**
     - Président (2016-2022)
 - **CPTS Centre Haute-Marne**
@@ -50,7 +50,7 @@ description = "mon curriculum vitae (FR)"
 - **ESP Doulaincourt**
     - Président et Fondateur (2019-2022)
 
-### **Compétences** :
+## **Compétences** :
 - ***Anglais : B2***
 - ***Informatique :***
     - ***WEB : HTML5/CSS3***
