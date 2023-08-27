@@ -24,7 +24,7 @@ description = "mon curriculum vitae (FR)"
 ### **Expériences Professionnelles :**
 
 - **Directeur du développement :**
-    - Défimédoc (2023) : www.defimedoc.fr
+    - [Défimédoc](https://www.defimedoc.fr) (2023)
 - **Pharmacien Titulaire :**
     - Pharmacie POULIN (2014-2022), Doulaincourt (52)
 - **Pharmacien Adjoint :**
@@ -46,7 +46,7 @@ description = "mon curriculum vitae (FR)"
 ### **Activité extra-professionelles :**
 - **Syndicat des Pharmaciens de la Haute-Marne**
     - Président (2016-2022)
-- **CPTS Centre Haute-Marne**
+- [**CPTS Centre Haute-Marne**](https://cptsducentrehautemarne.fr/)
     - Président et Fondateur (2019-2022)
     - Trésorier adjoint (2022-2023)
 - **ESP Doulaincourt**
