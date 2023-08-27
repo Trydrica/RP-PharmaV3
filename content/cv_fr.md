@@ -23,6 +23,8 @@ description = "mon curriculum vitae (FR)"
 
 ### **Expériences Professionnelles :**
 
+- **Directeur du développement :**
+    - Défimédoc (2023) : www.defimedoc.fr
 - **Pharmacien Titulaire :**
     - Pharmacie POULIN (2014-2022), Doulaincourt (52)
 - **Pharmacien Adjoint :**
