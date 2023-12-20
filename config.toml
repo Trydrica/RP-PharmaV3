@@ -45,7 +45,7 @@ style = "github-dark"
   name = "mail"
   icon = "fa fa-envelope fa-2x"
   weight = 1
-  url = "mailto:rp-pharma@pm.me"
+  url = "mailto:contact@rp-pharma.fr"
   target = "_blank"
 
 # Menu links
