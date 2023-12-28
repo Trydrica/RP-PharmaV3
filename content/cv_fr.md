@@ -10,7 +10,7 @@ description = "mon curriculum vitae (FR)"
 - **Agréments**
     - Prélèvement TROD Angine
     - Prélèvement Nasopharyngé (COVID)
-    - Vaccination
+    - Vaccination (Injection)
 - **Doctorat en Pharmacie (2005-2012)**
     - *UFR Pharmacie ReimsS*
 - **Master 1 Santé (2011)**
@@ -37,6 +37,7 @@ description = "mon curriculum vitae (FR)"
     - Pharmacie Ballereau, Marly-la-ville (2023)
     - Pharmacie Val du Châtel, Provins (2023)
     - Pharmacie des Loutres, Bugeat (2023)
+    - Pharmacie Castagné, Bugeat (2024)
 - **Enseignant Vacataire :**
     - UFR Pharmacie (2016, toujours en activité)
     - IFSI Chaumont (2020-2022)
