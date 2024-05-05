@@ -3,11 +3,7 @@ title = "Mes disponibilités :"
 description = "Mes disponibilités"
 +++
 ***
-##### *Dernière MAJ le 23/05/2023*
-
-## **2023 :**
-
-**SEMAINE 1 à 52 :** INDISPONIBLE
+##### *Dernière MAJ le 05/05/2024*
 
 ## **2024 :**
 
