@@ -4,6 +4,9 @@ description = "mon curriculum vitae (FR)"
 +++
 ***
 ### **Formations :**
+- **Formation 2024**
+    - Cours international sur la recherche bibliographique
+    - 7h
 - **DU e-PICIM (2022/23)**
     - (Pharmacovigilance, Intéractions, Contre-Indications Médicamenteuses)
     - *UNILIM Limoges*
