@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Romain POULIN</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Romain POULIN</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Thu, 05 Jan 2023 01:15:52 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Autores de Hugo</title>
+      <link>http://localhost:1313/autores/autores-de-hugo/</link>
+      <pubDate>Thu, 05 Jan 2023 01:15:52 +0100</pubDate>
+      <guid>http://localhost:1313/autores/autores-de-hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>temas</title>
+      <link>http://localhost:1313/categoria/temas/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
+      <guid>http://localhost:1313/categoria/temas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>sintaxe</title>
+      <link>http://localhost:1313/categoria/sintaxe/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
+      <guid>http://localhost:1313/categoria/sintaxe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Códigos curtos</title>
+      <link>http://localhost:1313/tags/shortcodes/_index.pt-br/</link>
+      <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
+      <guid>http://localhost:1313/tags/shortcodes/_index.pt-br/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>À propos :</title>
+      <link>http://localhost:1313/apropos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/apropos/</guid>
+      <description>Après l&amp;rsquo;obtention de mon diplôme de pharmacien en 2012, puis ma thèse en 2013, j&amp;rsquo;ai acquis une officine en 2014.&#xA;Après un transfert réussi l&amp;rsquo;année suivante en 2015 dans de nouveaux locaux, je l’ai transmise en 2022 pour donner une nouvelle orientation à ma carrière. J&amp;rsquo;ai obtenu mon diplôme universitaire de pharmacovigilance de l&amp;rsquo;Université de Limoges en 2023 tout en poursuivant ma carrière en tant que pharmacien remplaçant et mon poste auprès de Défimédoc.</description>
+    </item>
+    <item>
+      <title>Curriculum vitae :</title>
+      <link>http://localhost:1313/cv_fr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv_fr/</guid>
+      <description> Formations : Link to heading Formation 2024 Cours international sur la recherche bibliographique 7h DU e-PICIM (2022/23) (Pharmacovigilance, Intéractions, Contre-Indications Médicamenteuses) UNILIM Limoges Agréments Prélèvement TROD Angine Prélèvement Nasopharyngé (COVID) Vaccination (Injection) Doctorat en Pharmacie (2005-2012) UFR Pharmacie ReimsS Master 1 Santé (2011) UFR Pharmacie Reims Education Thérapeutique du Patient (2021) ETP 40h Chaumont -Baccalauréat Scientifique (2005) Reims Expériences Professionnelles : Link to heading Directeur du développement : Défimédoc (2023) Pharmacien Titulaire : Pharmacie POULIN (2014-2022), Doulaincourt (52) Pharmacien Adjoint : Pharmacie du Chalet, Reims (2012) Pharmacie Delong, Doulaincourt (2013-2014) Pharmacie du bout du monde, Plogoff (2022) Pharmacie Croix du Sud, Reims (2022) Pharmacie des Coteaux, Pargny-lès-Reims (2022) Pharmacie du Marché, Joigny (2023) Pharmacie Ballereau, Marly-la-ville (2023) Pharmacie Val du Châtel, Provins (2023) Pharmacie des Loutres, Bugeat (2023) Pharmacie Castagné, Bugeat (2024) Enseignant Vacataire : UFR Pharmacie (2016, toujours en activité) IFSI Chaumont (2020-2022) Organisme de formation : CPTS et ESP, OrionSanté (2020) Défimédoc (2023, toujours en activité) Activité extra-professionelles : Link to heading Syndicat des Pharmaciens de la Haute-Marne Président (2016-2022) CPTS Centre Haute-Marne Président et Fondateur (2019-2022) Trésorier adjoint (2022-2023) ESP Doulaincourt Président et Fondateur (2019-2022) Compétences : Link to heading Anglais : B2 Informatique : WEB : HTML5/CSS3 Bureautique : Pack Office MOOC CNIL : RGPD </description>
+    </item>
+    <item>
+      <title>Mes conditions de remplacement :</title>
+      <link>http://localhost:1313/conditions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/conditions/</guid>
+      <description> Coefficient : 700 Semaines minimum de 35h et journées consécutives Je ne souhaite pas bénéficier de la mutuelle d&amp;rsquo;entreprise. </description>
+    </item>
+    <item>
+      <title>Mes disponibilités :</title>
+      <link>http://localhost:1313/disponibilites/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/disponibilites/</guid>
+      <description>Dernière MAJ le 05/05/2024 Link to heading 2024 : Link to heading SEMAINE 1 à 35 : INDISPONIBLE&#xA;SEMAINE 36 à 52 : DISPONIBLE</description>
+    </item>
+    <item>
+      <title>Resume :</title>
+      <link>http://localhost:1313/cv_eng/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv_eng/</guid>
+      <description> Formations :&#xA;DU e-PICIM (2022/23) (Pharmacovigilance, Intéractions, Contre-Indications Médicamenteuses) UNILIM Limoges Agréments Prélèvement TROD Angine Prélèvement Nasopharyngé (COVID) Vaccination Doctorat en Pharmacie (2005-2012) UFR Pharmacie ReimsS Master 1 Santé (2011) UFR Pharmacie Reims Education Thérapeutique du Patient (2021) ETP 40h Chaumont -Baccalauréat Scientifique (2005) Reims Expériences Professionnelles : Link to heading Pharmacien Titulaire : Pharmacie POULIN (2014-2022), Doulaincourt (52) Pharmacien Adjoint : Pharmacie du Chalet, Reims (2012) Pharmacie Delong, Doulaincourt (2013-2014) Pharmacie du bout du monde, Plogoff (2022) Pharmacie Croix du Sud, Reims (2022) Pharmacie des Coteaux, Pargny-lès-Reims (2022) Pharmacie du Marché, Joigny (2023) Pharmacie Ballereau, Marly-la-ville (2023) Pharmacie Val du Châtel, Provins (2023) Enseignant Vacataire : UFR Pharmacie (2016, toujours en activité) IFSI Chaumont (2020-2022) Organisme de formation : CPTS et ESP, OrionSanté (2020) Défimédoc (2023, toujours en activité) Activité extra-professionelles : Link to heading Syndicat des Pharmaciens de la Haute-Marne Président (2016-2022) CPTS Centre Haute-Marne Président et Fondateur (2019-2022) Trésorier adjoint (2022-2023) ESP Doulaincourt Président et Fondateur (2019-2022) Compétences : Link to heading Anglais : B2 Informatique : WEB : HTML5/CSS3 Bureautique : Pack Office MOOC CNIL : RGPD </description>
+    </item>
+  </channel>
+</rss>
