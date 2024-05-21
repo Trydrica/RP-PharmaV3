@@ -28,25 +28,26 @@ description = "mon curriculum vitae (FR)"
 
 - **Directeur du développement :**
     - [Défimédoc](https://www.defimedoc.fr) (2023)
-- **Pharmacien Titulaire :**
-    - Pharmacie POULIN (2014-2022), Doulaincourt (52)
-- **Pharmacien Adjoint :**
-    - Pharmacie du Chalet, Reims (2012)
-    - Pharmacie Delong, Doulaincourt (2013-2014)
-    - Pharmacie du bout du monde, Plogoff (2022)
-    - Pharmacie Croix du Sud, Reims (2022)
-    - Pharmacie des Coteaux, Pargny-lès-Reims (2022)
+- **Pharmacien Remplaçant :**
     - Pharmacie du Marché, Joigny (2023)
     - Pharmacie Ballereau, Marly-la-ville (2023)
     - Pharmacie Val du Châtel, Provins (2023)
     - Pharmacie des Loutres, Bugeat (2023)
-    - Pharmacie Castagné, Bugeat (2024)
+    - Pharmacie du bout du monde, Plogoff (2022)
+    - Pharmacie Croix du Sud, Reims (2022)
+    - Pharmacie des Coteaux, Pargny-lès-Reims (2022)
+- **Pharmacien Titulaire :**
+    - Pharmacie POULIN (2014-2022), Doulaincourt (52)
+- **Pharmacien Adjoint :**
+    - Pharmacie Castagné (10h/sem), Bugeat (2024)
+    - Pharmacie Delong, Doulaincourt (2013-2014)
+    - Pharmacie du Chalet, Reims (2012)
 - **Enseignant Vacataire :**
     - UFR Pharmacie (2016, toujours en activité)
     - IFSI Chaumont (2020-2022)
 - **Organisme de formation :**
     - CPTS et ESP, OrionSanté (2020)
-    - Défimédoc (2023, toujours en activité)
+    - [Défimédoc](https://www.defimedoc.fr) (2023, toujours en activité)
 
 ### **Activité extra-professionelles :**
 - **Syndicat des Pharmaciens de la Haute-Marne**
