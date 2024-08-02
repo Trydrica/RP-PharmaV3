@@ -11,5 +11,5 @@ Depuis, j'équilibre mon temps entre exercice officinal et mon activité chez [D
 
 Durant mon exercice, je me suis beaucoup investit dans l'interprofessionalité en créant et en présidant l'**Equipe de Soins Primaire** (ESP) de la commune et la **Communauté de Professionnelle Territoriale de Santé du territoire** (CPTS) de Chaumont.
 
-Dorénavant j'ai fait le choix de me déplacer dans **toute la France** pour des remplacements courts, afin de diversifier les expériences professionnelles et transmettre mes connaissances.
+Résidant dorénavant dans l'Yonne, je peux me rendre disponible pour des remplacements courts autour des villes de Joigny et Auxerre.
 

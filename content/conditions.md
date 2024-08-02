@@ -4,5 +4,5 @@ description = "Mes conditions"
 +++
 ***
 - Coefficient : 700
-- Semaines minimum de 35h et journées consécutives
+- Remplacement court : 24 à 48h maximum
 - Je ne souhaite pas bénéficier de la mutuelle d'entreprise. 
