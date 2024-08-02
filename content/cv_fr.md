@@ -4,16 +4,16 @@ description = "mon curriculum vitae (FR)"
 +++
 ***
 ### **Formations :**
-- **Formation 2024**
-    - Cours international sur la recherche bibliographique
-    - 7h
+- **Formations 2024**
+    - Prescription Vaccinale 100% en ligne (10,5h)
+    - Cours international sur la recherche bibliographique (7h)
 - **DU e-PICIM (2022/23)**
     - (Pharmacovigilance, Intéractions, Contre-Indications Médicamenteuses)
     - *UNILIM Limoges*
 - **Agréments**
     - Prélèvement TROD Angine
     - Prélèvement Nasopharyngé (COVID)
-    - Vaccination (Injection)
+    - Vaccination (Prescription et Injection)
 - **Doctorat en Pharmacie (2005-2012)**
     - *UFR Pharmacie ReimsS*
 - **Master 1 Santé (2011)**
