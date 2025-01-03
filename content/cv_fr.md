@@ -4,63 +4,31 @@ description = "mon curriculum vitae (FR)"
 +++
 ***
 ### **Formations :**
-- **Formations 2024**
-    - Prescription Vaccinale 100% en ligne (10,5h)
-    - Cours international sur la recherche bibliographique (7h)
-- **DU e-PICIM (2022/23)**
-    - (Pharmacovigilance, Intéractions, Contre-Indications Médicamenteuses)
-    - *UNILIM Limoges*
+- **2024 :** Prescription Vaccinale (10,5h, en ligne), Recherche bibliographique internationale (7h)
+- **2022-2023 :** DU e-PICIM (Pharmacovigilance, Interactions, Contre-Indications Médicamenteuses), Université de Limoges
+- **2021 :** Éducation Thérapeutique du Patient (40h), Chaumont
+- **Doctorat en Pharmacie (2005-2012) :** UFR Pharmacie, Reims
 - **Agréments**
     - Prélèvement TROD Angine
     - Prélèvement Nasopharyngé (COVID)
     - Vaccination (Prescription et Injection)
-- **Doctorat en Pharmacie (2005-2012)**
-    - *UFR Pharmacie ReimsS*
-- **Master 1 Santé (2011)**
-    - *UFR Pharmacie Reims*
-- **Education Thérapeutique du Patient (2021)**
-    - ETP 40h
-    - *Chaumont*
--**Baccalauréat Scientifique (2005)**
-    - *Reims*
-
 ### **Expériences Professionnelles :**
 
-- **Directeur du développement :**
-    - [Défimédoc](https://www.defimedoc.fr) (2023)
-- **Pharmacien Remplaçant :**
-    - Pharmacie du Marché, Joigny (2023)
-    - Pharmacie Ballereau, Marly-la-ville (2023)
-    - Pharmacie Val du Châtel, Provins (2023)
-    - Pharmacie des Loutres, Bugeat (2023)
-    - Pharmacie du bout du monde, Plogoff (2022)
-    - Pharmacie Croix du Sud, Reims (2022)
-    - Pharmacie des Coteaux, Pargny-lès-Reims (2022)
-- **Pharmacien Titulaire :**
-    - Pharmacie POULIN (2014-2022), Doulaincourt (52)
-- **Pharmacien Adjoint :**
-    - Pharmacie Castagné (10h/sem), Bugeat (2024)
-    - Pharmacie Delong, Doulaincourt (2013-2014)
-    - Pharmacie du Chalet, Reims (2012)
+- **Directeur du développement (2023 - présent) :** [Défimédoc](https://www.defimedoc.fr) 
+- **Pharmacien Remplaçant (2022-présent) :** Vincelles, Joigny, Marly-la-ville, Provins, Bugeat, Plogoff, Reim et Pargny-lès-Reims.
+- **Pharmacien Titulaire (2014 - 2022):** Pharmacie POULIN, Doulaincourt (52)
 - **Enseignant Vacataire :**
-    - UFR Pharmacie (2016, toujours en activité)
+    - UFR Pharmacie (2016 - présent)
     - IFSI Chaumont (2020-2022)
-- **Organisme de formation :**
-    - CPTS et ESP, OrionSanté (2020)
-    - [Défimédoc](https://www.defimedoc.fr) (2023, toujours en activité)
 
-### **Activité extra-professionelles :**
-- **Syndicat des Pharmaciens de la Haute-Marne**
-    - Président (2016-2022)
-- [**CPTS Centre Haute-Marne**](https://cptsducentrehautemarne.fr/)
-    - Président et Fondateur (2019-2022)
-    - Trésorier adjoint (2022-2023)
-- **ESP Doulaincourt**
-    - Président et Fondateur (2019-2022)
+### **Activité associative :**
+- **Syndicat des Pharmaciens de la Haute-Marne (2016 - 2022) :** Président
+- [**CPTS Centre Haute-Marne (2019-2022) :**](https://cptsducentrehautemarne.fr/)Président et fondateur
+- **ESP Doulaincourt (2019-2022) :** Président et Fondateur
 
 ### **Compétences** :
-- ***Anglais : B2***
+- ***Anglais : Niveau B2 (lecture d’articles scientifiques)***
 - ***Informatique :***
-    - ***WEB : HTML5/CSS3***
+    - ***Programmation : HTML5/CSS3/Python***
     - ***Bureautique : Pack Office*** 
     - ***MOOC CNIL : RGPD***  
