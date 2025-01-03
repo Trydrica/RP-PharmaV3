@@ -2,14 +2,11 @@
 title = "À propos :"
 description = "Mes conditions"
 +++
-***
-Après l'obtention de mon diplôme de pharmacien en 2012, puis ma thèse en 2013, j'ai acquis une officine en 2014.
 
-Après un transfert réussi l'année suivante en 2015 dans de nouveaux locaux, je l’ai transmise en 2022 pour donner une nouvelle orientation à ma carrière. J'ai obtenu mon diplôme universitaire de pharmacovigilance de l'Université de Limoges en 2023 tout en poursuivant ma carrière en tant que pharmacien remplaçant et mon poste auprès de [Défimédoc](https://www.defimedoc.fr).
+Après avoir obtenu mon diplôme de pharmacien en 2012 et soutenu ma thèse en 2013, j’ai acquis une officine en 2014. L’année suivante, j’ai mené à bien son transfert dans de nouveaux locaux, une opération qui a permis de moderniser l’espace et de dynamiser significativement l’activité. En 2022, après huit années d’engagement en tant que pharmacien titulaire, j’ai décidé de transmettre cette officine pour explorer de nouveaux horizons professionnels.
 
-Depuis, j'équilibre mon temps entre exercice officinal et mon activité chez [Défimédoc](https://www.defimedoc.fr).
+En 2023, j’ai renforcé mes compétences en obtenant un Diplôme Universitaire en pharmacovigilance à l’Université de Limoges. Parallèlement, j’ai multiplié les expériences en tant que pharmacien remplaçant dans plusieurs officines et occupé le poste de directeur du développement chez Défimédoc, où je continue d’exercer aujourd’hui.
 
-Durant mon exercice, je me suis beaucoup investit dans l'interprofessionalité en créant et en présidant l'**Equipe de Soins Primaire** (ESP) de la commune et la **Communauté de Professionnelle Territoriale de Santé du territoire** (CPTS) de Chaumont.
+Tout au long de ma carrière, j’ai été fortement impliqué dans le développement de l’interprofessionnalité. En tant que fondateur et président de la Communauté Professionnelle Territoriale de Santé (CPTS) de Chaumont, j’ai coordonné des projets visant à améliorer la coopération entre professionnels de santé et la prise en charge des patients sur le territoire. Cette expérience m’a permis de développer des compétences solides en gestion de projet, animation de réseaux et leadership. J’ai également présidé l’Équipe de Soins Primaires (ESP) locale, renforçant davantage ma capacité à fédérer des équipes pluridisciplinaires.
 
-Résidant dorénavant dans l'Yonne, je peux me rendre disponible pour des remplacements courts autour des villes de Joigny et Auxerre.
-
+Désormais installé dans l’Yonne, j’associe ma pratique officinale à mes activités chez [Défimédoc](https://www.defimedoc.fr).

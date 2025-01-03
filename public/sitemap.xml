@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>http://www.rp-pharma.fr/authors/</loc>
     <lastmod>2023-01-05T01:15:52+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/autores/autores-de-hugo/</loc>
+    <loc>http://www.rp-pharma.fr/autores/autores-de-hugo/</loc>
     <lastmod>2023-01-05T01:15:52+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://www.rp-pharma.fr/</loc>
     <lastmod>2023-01-05T01:15:52+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/hugo-authors/</loc>
+    <loc>http://www.rp-pharma.fr/authors/hugo-authors/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://www.rp-pharma.fr/categories/</loc>
     <lastmod>2023-01-04T23:21:18+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categoria/temas/</loc>
+    <loc>http://www.rp-pharma.fr/categoria/temas/</loc>
     <lastmod>2023-01-04T23:21:18+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categoria/sintaxe/</loc>
+    <loc>http://www.rp-pharma.fr/categoria/sintaxe/</loc>
     <lastmod>2023-01-04T23:21:06+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/shortcodes/_index.pt-br/</loc>
+    <loc>http://www.rp-pharma.fr/tags/shortcodes/_index.pt-br/</loc>
     <lastmod>2023-01-04T11:51:36+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://www.rp-pharma.fr/tags/</loc>
     <lastmod>2023-01-04T11:51:36+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/apropos/</loc>
+    <loc>http://www.rp-pharma.fr/apropos/</loc>
   </url><url>
-    <loc>http://localhost:1313/cv_fr/</loc>
+    <loc>http://www.rp-pharma.fr/cv_fr/</loc>
   </url><url>
-    <loc>http://localhost:1313/conditions/</loc>
+    <loc>http://www.rp-pharma.fr/conditions/</loc>
   </url><url>
-    <loc>http://localhost:1313/disponibilites/</loc>
+    <loc>http://www.rp-pharma.fr/disponibilites/</loc>
   </url><url>
-    <loc>http://localhost:1313/cv_eng/</loc>
+    <loc>http://www.rp-pharma.fr/cv_eng/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>http://www.rp-pharma.fr/series/</loc>
   </url>
 </urlset>
