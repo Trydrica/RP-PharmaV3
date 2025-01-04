@@ -1,10 +1,10 @@
-baseurl = "http://www.rp-pharma.fr"
+baseurl = "http://www.romainpoulin.fr"
 title = "Romain POULIN"
 theme = "hugo-coder"
 languagecode = "fr"
 defaultcontentlanguage = "fr"
 
-paginate = 20
+pagination.pagerSize = 20
 
 disqusShortname = ""
 

@@ -13,9 +13,9 @@ body {
   color: $fg-color;
   background-color: $bg-color;
   font-family: $font-family;
-  font-size: 1.5em;
+  font-size: 1.8em;
   font-weight: 400;
-  line-height: 1.5em;
+  line-height: 1.8em;
 
   @media only screen and (max-width: 768px) {
     font-size: 1.6em;
@@ -41,6 +41,14 @@ a {
 
 p {
   margin: 2rem 0 2rem 0;
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
+  word-wrap: break-word;
+  @media only screen and (max-width: 768px) {
+    margin: 1.5rem 0 1.5rem 0;
+  }
 }
 
 h1,
@@ -52,7 +60,7 @@ h6 {
   font-family: $font-family;
   font-weight: 600;
   color: $alt-fg-color;
-  margin: 2rem 0 1rem 0;
+  margin: 4rem 0 2.5rem 0;
 
   &:hover .heading-link {
     visibility: visible;
@@ -94,8 +102,8 @@ h2 {
 }
 
 h3 {
-  font-size: 2.3rem;
-  line-height: 2rem;
+  font-size: 2.4rem;
+  line-height: 2.8rem;
 
   @media only screen and (max-width: 768px) {
     font-size: 2.2rem;
@@ -145,6 +153,7 @@ strong {
     margin: 2rem 0 2rem;
     padding: 1rem;
     border-radius: 1rem;
+    overflow-x: auto;
   }
 }
 
@@ -174,6 +183,9 @@ code {
   padding: 0.3rem 0.6rem;
   background-color: $darker-alt-bg-color;
   color: $fg-color;
+  @media only screen and (max-width: 768px) {
+    font-size: 1.5rem;
+  }
 }
 
 blockquote {
