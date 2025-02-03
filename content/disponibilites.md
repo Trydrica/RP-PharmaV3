@@ -7,4 +7,4 @@ description = "Mes disponibilités"
 
 ## **2025 :**
 
-**SEMAINE 1 à 52 :** DISPONIBILITÉS À VENIR
+**SEMAINE 1 à 52 :** Indisponible
